@@ -2,7 +2,7 @@
 
 # Real Estate Market Analysis
 
-<img width="8000" height="400" alt="Screen Shot 1444-06-17 at 9 20 35 AM" src="ry22.png">
+<img width="8000" height="400" alt="Screen Shot 1444-06-17 at 9 20 35 AM" src="../ry22.png">
 
 ## Group member
 - Farah Alosaimi
